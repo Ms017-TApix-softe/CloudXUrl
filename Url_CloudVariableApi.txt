@@ -1,1 +1,1 @@
-https://6b3c01dd.r33.cpolar.top
+http://192.168.2.6:3000
